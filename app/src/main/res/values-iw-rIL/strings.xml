@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewOrder</string>
+    <string name="stop_music_play">הפסק מסויקה</string>
+    <string name="new_game">משחק חדש</string>
+    <string name="continue_game">המשך</string>
+    <string name="help">עזרה</string>
+    <string name="exit">יציאה</string>
+    <string name="notSave">שמירה חסרה! לחץ על משחק חדש</string>
+    <string name="game8">8 חלקים</string>
+    <string name="Score">ניקוד:</string>
+    <string name="bestScore">שיא:</string>
+    <string name="welcome_to_neworder">ברוך הבא לסדר חדש</string>
+    <string name="back_from_lead">חזרה</string>
+    <string name="score_txt">תוצאה:</string>
+    <string name="instructions">משחק הג\'יגסאו הוא משחק ידוע בהיסטוריה . מטרת המשחק היא לסדר מחדש את קלפי המספרים המוגים בסדר עולה על ידי החלקתם ימינה שמאלה למעלה למטה בלוח . פחות מהלכים = משחק טוב יותר בהצלחה</string>
+    <string name="press_on_this_button_to_stop_the_sound_from_playing">לחץ על כפתור זה בשביל להפסיק את המוסיקה</string>
+    <string name="_3x3">קל</string>
+    <string name="choose_grid_size">בחר רמה</string>
+    <string name="_5x">קשה</string>
+    <string name="_4x4">בינוני</string>
+    <string name="music_stop_silent">מוסיקה הפסיקה</string>
+    <string name="music_is_playing">מוסיקה מופעלת</string>
+    <string name="record">שיא:</string>
+    <string name="score">מהלכים:</string>
+    <string name="_8_puzzle">8 חלקים</string>
+    <string name="you_won">ניצחתֿ! כל הכבוד</string>
+    <string name="_15_puzzle">15 חלקים</string>
+    <string name="_24_puzzle">24 חלקים</string>
+    <string name="username">שם משתמש</string>
+    <string name="login">התחברות</string>
+    <string name="sign_in">התחבר</string>
+    <string name="please_enter_username">אנא הכנס שם משתמש</string>
+    <string name="password">סיסמא</string>
+    <string name="register">הרשם</string>
+    <string name="please_enter_password">אנא הכנס סיסמא</string>
+    <string name="register_textview">הרשמה</string>
+    <string name="please_enter_password_again">אנא הכנס סיסמא שוב</string>
+    <string name="confirm_password">אשר סיסמא</string>
+    <string name="exit_login_btn">יציאה</string>
+    <string name="email">איימיל</string>
+    <string name="please_enter_email">אנא הכנס איימיל</string>
+    <string name="email_reg">איימיל</string>
+    <string name="please_enter_email_reg_hint">אנא הכנס איימיל</string>
+    <string name="easy">קל</string>
+    <string name="medium">בינוני</string>
+    <string name="hard">קשה</string>
+    <string name="hello_blank_fragment">ֿ</string>
+    <string name="logout">התנתק</string>
+    <string name="leadboard">לוח תוצאות</string>
+</resources>
